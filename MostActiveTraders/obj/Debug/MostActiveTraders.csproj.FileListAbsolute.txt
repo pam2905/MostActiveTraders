@@ -1,0 +1,7 @@
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\bin\Debug\MostActiveTraders.exe.config
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\bin\Debug\MostActiveTraders.exe
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\bin\Debug\MostActiveTraders.pdb
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\obj\Debug\MostActiveTraders.csprojAssemblyReference.cache
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\obj\Debug\MostActiveTraders.csproj.CoreCompileInputs.cache
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\obj\Debug\MostActiveTraders.exe
+C:\Users\Pampa_2\Desktop\ds_algo\MostActiveTraders\MostActiveTraders\obj\Debug\MostActiveTraders.pdb
